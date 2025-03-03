@@ -1,0 +1,3 @@
+pranes,50,m
+senarp,55,m
+vase,66,f
